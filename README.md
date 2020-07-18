@@ -6,6 +6,7 @@ Please feel free to use my examples and don't forget to credit my work :smirk_ca
 
 ## Project List:
 1. <a href="https://github.com/habibalmawali/UI-Challenges/tree/master/ionic-restrant-app">Restaurant Application 🔥</a>
+2. <a href="https://github.com/habibalmawali/UI-Challenges/tree/master/ionic-project-management">Restaurant Application 🔥</a>
 
 
 ###### Thank you.

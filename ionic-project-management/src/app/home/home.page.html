@@ -1,0 +1,222 @@
+<ion-header [translucent]="true">
+  <header class="header-7">
+    <div class="header-nav">
+      <a class="active nav-link nav-text">UI Design 2</a>
+      <a class="nav-link nav-text">Habib Dev.</a>
+    </div>
+    <div class="header-actions">
+      <a class="nav-link nav-icon" aria-label="settings">
+        <clr-icon shape="cog"></clr-icon>
+      </a>
+    </div>
+  </header>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+
+  <div class="ion-padding">
+
+    <div class="content-area">
+      <div class="alert alert-info" role="alert">
+        <div class="alert-items">
+          <div class="alert-item static">
+            <div class="alert-icon-wrapper">
+              <clr-icon class="alert-icon" shape="check-circle"></clr-icon>
+            </div>
+            <span class="alert-text">
+              Project Management and Work Status
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="clr-row">
+      <div class="clr-col-lg-6 clr-col-12">
+        <div class="card">
+          <div class="card-block">
+            <h4 class="card-title">Project</h4>
+          </div>
+          <div class="card-block">
+            <div class="card-media-block">
+              <img src="https://habib.al-mawali.com/wp-content/uploads/Habib-AlMawali-on-Macbook-768x768.jpg"
+                class="card-media-image">
+              <div class="card-media-description">
+                <span class="card-media-title">
+                  Project: eCommerce Application
+                </span>
+                <span class="card-media-text">
+                  Owner: Habib AlMawali
+                </span>
+              </div>
+            </div>
+          </div>
+
+          <div class="card-block">
+            <h4 class="card-title">Tasks</h4>
+
+            <table class="table table-vertical table-compact ion-no-margin">
+              <thead>
+                <tr>
+                  <th>Task</th>
+                  <th>Time</th>
+                  <th>Responsibility</th>
+                  <th>Remark</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Landing Page</td>
+                  <td>07:45 AM</td>
+                  <td>Habib</td>
+                  <td>Done</td>
+                </tr>
+                <tr>
+                  <td>Login Page</td>
+                  <td>09:00 AM</td>
+                  <td>John</td>
+                  <td>70%</td>
+                </tr>
+                <tr>
+                  <td>Shopping Cart</td>
+                  <td>12:30 PM</td>
+                  <td>Doe</td>
+                  <td>N/A</td>
+                </tr>
+                <tr>
+                  <td>Publish</td>
+                  <td>03:00 PM</td>
+                  <td>Habib</td>
+                  <td>N/A</td>
+                </tr>
+              </tbody>
+            </table>
+
+          </div>
+          <div class="card-footer">
+            <button class="btn btn-sm btn-link">Project Manager Profile</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="clr-row">
+      <div class="clr-col-12 clr-col-sm-4">
+        <div class="card">
+          <div class="card-block">
+            <h4 class="card-title">Completed Task</h4>
+
+            <div class="alert alert-success" role="alert">
+              <div class="alert-items">
+                <div class="alert-item static">
+                  <div class="alert-icon-wrapper">
+                    <clr-icon class="alert-icon" shape="check-circle"></clr-icon>
+                  </div>
+                  <span class="alert-text">
+                    Landing Page Completed.
+                  </span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+          <div class="card-block">
+            <a href="..." class="card-link">Kudos</a>
+          </div>
+
+          <div class="card-block">
+            <h4 class="card-title">Current Progresss</h4>
+            <p class="card-text">Working on Login Page</p>
+          </div>
+          <div class="card-block">
+            <a href="..." class="card-link">More details</a>
+          </div>
+          <div class="card-footer">
+            <div class="progress loop">
+              <progress value="..." max="100"></progress>
+            </div>
+          </div>
+          <div class="card-block">
+            <h4 class="card-title">Not Started</h4>
+
+            <div class="alert alert-warning" role="alert">
+              <div class="alert-items">
+                <div class="alert-item static">
+                  <div class="alert-icon-wrapper">
+                    <clr-icon class="alert-icon" shape="info"></clr-icon>
+                  </div>
+                  <span class="alert-text">
+                    Shopping Cart & Hosting
+                  </span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="content-area ion-margin-vertical">
+      <div class="alert alert-info" role="alert">
+        <div class="alert-items">
+          <div class="alert-item static">
+            <div class="alert-icon-wrapper">
+              <clr-icon class="alert-icon" shape="check-circle"></clr-icon>
+            </div>
+            <span class="alert-text">
+              Work Progress
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <ul class="clr-timeline clr-timeline-vertical">
+      <li class="clr-timeline-step">
+        <div class="clr-timeline-step-header">07:45 AM</div>
+        <clr-icon shape="success-standard" aria-label="Completed"></clr-icon>
+        <div class="clr-timeline-step-body">
+          <span class="clr-timeline-step-title">Landing Page</span>
+          <span class="clr-timeline-step-description">Working on landing page.</span>
+        </div>
+      </li>
+      <li class="clr-timeline-step">
+        <div class="clr-timeline-step-header">09:00 AM</div>
+        <clr-icon shape="dot-circle" aria-current="true" aria-label="Current"></clr-icon>
+        <div class="clr-timeline-step-body">
+          <span class="clr-timeline-step-title">Login Page</span>
+          <span class="clr-timeline-step-description">
+            Working on Login page with Google Authentication.
+            <img src="https://clarity.design/assets/images/documentation/cards/placeholder_350x150.png"
+              alt="Example of an Image in a Card" />
+            <button class="btn btn-sm">Mark Done</button>
+          </span>
+        </div>
+      </li>
+      <li class="clr-timeline-step">
+        <div class="clr-timeline-step-header">12:30 PM</div>
+        <clr-icon shape="circle" aria-label="Not started"></clr-icon>
+        <div class="clr-timeline-step-body">
+          <span class="clr-timeline-step-title">Shopping Cart</span>
+          <span class="clr-timeline-step-description">Building cart functionality for the application.
+            <button class="btn btn-sm">Mark Done</button>
+          </span>
+        </div>
+      </li>
+      <li class="clr-timeline-step">
+        <div class="clr-timeline-step-header">03:00 PM</div>
+        <clr-icon shape="circle" aria-label="Not Started"></clr-icon>
+        <div class="clr-timeline-step-body">
+          <span class="clr-timeline-step-title">Publish</span>
+          <span class="clr-timeline-step-description">Hosting the application.
+            <button class="btn btn-sm">Mark Done</button>
+          </span>
+        </div>
+      </li>
+    </ul>
+
+  </div>
+
+</ion-content>
