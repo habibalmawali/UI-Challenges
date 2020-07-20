@@ -1,0 +1,81 @@
+<ion-header class="ion-no-border">
+  <ion-item lines="none">
+    <ion-avatar slot="end">
+      <img src="assets/profile.jpg">
+    </ion-avatar>
+    <ion-button fill="clear" color="light">
+      <ion-icon slot="icon-only" name="menu"></ion-icon>
+    </ion-button>
+  </ion-item>
+  <ion-item lines="none">
+    <div class="ion-padding-start ion-padding-bottom">
+      <ion-label>
+        <h2>Choose a Car</h2>
+      </ion-label>
+
+      <ion-row class="ion-align-items-center">
+        <ion-col size="10">
+          <ion-searchbar placeholder="Oman, Muscat" searchIcon="location-outline"></ion-searchbar>
+        </ion-col>
+        <i-col size="2">
+          <ion-button color="light" fill="clear">
+            <ion-icon slot="icon-only" name="options-outline"></ion-icon>
+          </ion-button>
+        </i-col>
+      </ion-row>
+
+    </div>
+  </ion-item>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <div class="ion-padding">
+
+    <ion-row class="ion-align-items-center ion-padding-horizontal">
+      <ion-col size="6">
+        <h5>8 Results</h5>
+      </ion-col>
+      <ion-col size="6" class="ion-text-right">
+        <ion-button fill="clear" color="dark">
+          <ion-icon slot="icon-only" name="ellipsis-horizontal"></ion-icon>
+        </ion-button>
+      </ion-col>
+    </ion-row>
+
+    <ion-card>
+      <ion-card-header>
+        <ion-row class="ion-align-items-center">
+          <ion-col size="6">
+            <ion-badge color="warning" mode="ios">
+              <ion-icon name="star"></ion-icon>
+              4.5
+            </ion-badge>
+          </ion-col>
+          <ion-col size="6" class="ion-text-right">
+            <ion-card-subtitle color="success">25 Deals</ion-card-subtitle>
+          </ion-col>
+        </ion-row>
+      </ion-card-header>
+      <ion-card-content>
+        <ion-img src="https://www.pngonly.com/wp-content/uploads/2017/06/transparent-car-png-10207.png"></ion-img>
+
+        <ion-row>
+          <ion-col size="8">
+            <ion-card-title>Car Title</ion-card-title>
+            <ion-card-subtitle>From 15 OMR / day</ion-card-subtitle>
+          </ion-col>
+          <ion-col size="4" class="ion-text-right">
+            <ion-button fill="clear" color="dark" size="large" routerLink="/details">
+              <ion-icon slot="icon-only" name="chevron-forward-circle-outline"></ion-icon>
+            </ion-button>
+          </ion-col>
+        </ion-row>
+      </ion-card-content>
+    </ion-card>
+
+  </div>
+</ion-content>
+
+<div class="ion-padding">
+  <ion-badge class="ion-text-center" color="danger" mode="ios">Habib Dev.</ion-badge>
+</div>
