@@ -10,7 +10,7 @@
 ![Restrant-App-Project](https://user-images.githubusercontent.com/31030616/87674474-1b415400-c787-11ea-92af-b0b1a4cc8504.png)
 
 ## Youtube Demo
-<a href="https://youtu.be/wCiQZKf9LXc" target="_blank">https://youtu.be/wCiQZKf9LXc</a>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wCiQZKf9LXc/0.jpg)](https://www.youtube.com/watch?v=wCiQZKf9LXc)
 
 ## Prerequisite:
 1. Node.js to be installed.
