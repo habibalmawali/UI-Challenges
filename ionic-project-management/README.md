@@ -13,7 +13,7 @@
 ![untitled-project@2x (3)](https://user-images.githubusercontent.com/31030616/87852569-1c53bc00-c914-11ea-8370-a70b9d7d25df.png)
 
 ## Youtube Demo
-<a href="https://youtu.be/L_pJhGU26R0" target="_blank">https://youtu.be/L_pJhGU26R0</a>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/L_pJhGU26R0/0.jpg)](https://www.youtube.com/watch?v=L_pJhGU26R0)
 
 ## Prerequisite:
 1. Node.js to be installed.
