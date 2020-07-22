@@ -12,7 +12,7 @@ Please feel free to use my examples and don't forget to credit my work :smirk_ca
 03. <a href="https://github.com/habibalmawali/COVID-19-IONIC5-Angular9-UI.git">Covid-19 Guide App 🔥</a>
 04. <a href="https://github.com/habibalmawali/ionic5-movie-app-ui.git">Movies App 🔥</a>
 05. <a href="https://github.com/habibalmawali/UI-Challenges/tree/master/ionic-car-rental">Car Rental App 🔥</a>
-06. <a href="#">Soon.. 🔥</a>
+06. <a href="https://github.com/habibalmawali/UI-Challenges/tree/master/ionic-pokedex">Pokemon PokeDex App 🔥</a>
 07. <a href="#">Soon.. 🔥</a>
 08. <a href="#">Soon.. 🔥</a>
 09. <a href="#">Soon.. 🔥</a>

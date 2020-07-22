@@ -1,0 +1,68 @@
+ion-header {
+  ion-toolbar {
+    --background: rgba(0,0,0,0);
+  }
+  h4 {
+    font-weight: bold;
+    font-size: 24px;
+  }
+  .titles {
+    padding: 0 2rem;
+  }
+  ion-searchbar {
+    --background: rgba(0,0,0,.04);
+    --box-shadow: none;
+    --border-radius: 6px;
+  }
+  img {
+    transform: scale(1.2, 1.2);
+    opacity: .2;
+    position: absolute;
+    top: -120px;
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
+  }
+}
+
+ion-content {
+  ion-card {
+
+    overflow: visible;
+    height: 120px;
+    box-shadow: none;
+    border-radius: 8px;
+    margin: 26px 0;
+
+    ion-col {
+      ion-img {
+        position: relative;
+        bottom: 36px;
+        width: 120px;
+      }
+    }
+
+    .mask {
+      img {
+        width: 240px;
+        position: absolute;
+        bottom: 0px;
+        left: 140px;
+        mask-image: linear-gradient(to top, rgba(0,0,0,.1), rgba(0,0,0,0));
+      }
+    }
+
+    ion-badge {
+      margin-top: 8px;
+      background: rgba(0,0,0,.08);
+    }
+
+    ion-card-title {
+      font-weight: 900;
+    }
+
+    .no {
+      color: rgba(0,0,0,.66);
+      font-weight: bold;
+    }
+  }
+}
+
