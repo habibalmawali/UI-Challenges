@@ -10,7 +10,6 @@
 ![car-rental-ui](https://user-images.githubusercontent.com/31030616/87987995-9b9de700-caf0-11ea-9c94-f15c7d57eb38.png)
 
 ## Youtube Demo
-## Youtube Demo
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NTQ3SQfM9nI/0.jpg)](https://www.youtube.com/watch?v=NTQ3SQfM9nI)
 
 ## Prerequisite:
