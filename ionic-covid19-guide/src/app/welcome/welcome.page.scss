@@ -1,0 +1,56 @@
+ion-toolbar {
+    --background: #091d23;
+    color: #FFF;
+}
+
+.mat-stepper-vertical {
+    background: #091d23;
+}
+
+::ng-deep .mat-vertical-content {
+    padding: 0;
+}
+
+::ng-deep .mat-step-label {
+    color: #091d23;
+    font-weight: bold;
+    background-color: #ffc409;
+    padding: 6px 20px;
+    border-radius: 16px;
+}
+
+::ng-deep .mat-step-header .mat-step-icon {
+    background-color: #FFD167;
+    color: #091d23;
+    font-weight: bold;
+}
+
+::ng-deep .mat-stepper-vertical-line::before {
+    border-color: #FFF;
+}
+
+.wave-container {
+    position: relative;
+    color: #FFF;
+    text-align: center;
+    overflow: hidden;
+    background: #091d23;
+}
+
+.wave-container > svg {
+    display: block;
+}
+
+ion-content {
+    ion-toolbar {
+        color: #091d23;
+        --background: rgba(0,0,0,0);
+        ion-title {
+        font-size: 12px;
+        }
+    }
+}
+
+img {
+    width: 200px;
+}

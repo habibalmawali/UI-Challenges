@@ -9,8 +9,8 @@ Please feel free to use my examples and don't forget to credit my work :smirk_ca
 ## Project List:
 01. <a href="https://github.com/habibalmawali/UI-Challenges/tree/master/ionic-restrant-app">Restaurant Menu App 🔥</a>
 02. <a href="https://github.com/habibalmawali/UI-Challenges/tree/master/ionic-project-management">Project Management App 🔥</a>
-03. <a href="https://github.com/habibalmawali/COVID-19-IONIC5-Angular9-UI.git">Covid-19 Guide App 🔥</a>
-04. <a href="https://github.com/habibalmawali/ionic5-movie-app-ui.git">Movies App 🔥</a>
+03. <a href="https://github.com/habibalmawali/UI-Challenges/tree/master/ionic-covid19-guide">Covid-19 Guide App 🔥</a>
+04. <a href="https://github.com/habibalmawali/UI-Challenges/tree/master/ionic-movies">Movies App 🔥</a>
 05. <a href="https://github.com/habibalmawali/UI-Challenges/tree/master/ionic-car-rental">Car Rental App 🔥</a>
 06. <a href="https://github.com/habibalmawali/UI-Challenges/tree/master/ionic-pokedex">Pokemon PokeDex App 🔥</a>
 07. <a href="#">Soon.. 🔥</a>

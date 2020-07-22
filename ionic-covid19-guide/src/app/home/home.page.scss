@@ -1,0 +1,38 @@
+  
+ion-content {
+  --background: #ffc409;
+}
+
+  
+.wave-container {
+  position: relative;
+  color: #FFF;
+  text-align: center;
+  overflow: hidden;
+
+  background: #091d23;
+  
+  img {
+    margin-bottom: 2rem;
+  }
+
+}
+
+.wave-container > svg {
+  display: block;
+}
+
+
+h1 {
+  font-size: 4rem;
+  margin: 2rem auto;
+}
+
+ion-footer {
+  ion-toolbar {
+    --background: rgba(0,0,0,0);
+    ion-title {
+      font-size: 12px;
+    }
+  }
+}
