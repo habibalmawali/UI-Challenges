@@ -10,7 +10,7 @@
 ![ionic-pokedex](https://user-images.githubusercontent.com/31030616/88213261-85676680-cc69-11ea-94df-8d715d24372f.png)
 
 ## Youtube Demo
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/e4uRwnPHZl0?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/e4uRwnPHZl0/0.jpg)](https://www.youtube.com/watch?v=e4uRwnPHZl0)
 
 ## Prerequisite:
 1. Node.js to be installed.
