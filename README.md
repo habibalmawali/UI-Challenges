@@ -13,7 +13,7 @@ Please feel free to use my examples and don't forget to credit my work :smirk_ca
 04. <a href="https://github.com/habibalmawali/UI-Challenges/tree/master/ionic-movies">Movies App 🔥</a>
 05. <a href="https://github.com/habibalmawali/UI-Challenges/tree/master/ionic-car-rental">Car Rental App 🔥</a>
 06. <a href="https://github.com/habibalmawali/UI-Challenges/tree/master/ionic-pokedex">Pokemon PokeDex App 🔥</a>
-07. <a href="#">Soon.. 🔥</a>
+07. <a href="https://github.com/habibalmawali/UI-Challenges/tree/master/ionic-flowers-store">Flowers Store App 🔥</a>
 08. <a href="#">Soon.. 🔥</a>
 09. <a href="#">Soon.. 🔥</a>
 10. <a href="#">Soon.. 🔥</a>
