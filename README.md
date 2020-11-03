@@ -14,9 +14,10 @@ Please feel free to use my examples and don't forget to credit my work :smirk_ca
 05. <a href="https://github.com/habibalmawali/UI-Challenges/tree/master/ionic-car-rental">Car Rental App 🔥</a>
 06. <a href="https://github.com/habibalmawali/UI-Challenges/tree/master/ionic-pokedex">Pokemon PokeDex App 🔥</a>
 07. <a href="https://github.com/habibalmawali/UI-Challenges/tree/master/ionic-flowers-store">Flowers Store App 🔥</a>
-08. <a href="#">Soon.. 🔥</a>
-09. <a href="#">Soon.. 🔥</a>
-10. <a href="#">Soon.. 🔥</a>
+08. <a href="https://github.com/habibalmawali/prototype-into-real">Headset Store 🔥</a>
+09. <a href="https://github.com/thedevclass/ionic-components-library/tree/shoes-card">Puma Shoes Card 🔥</a>
+10. <a href="https://github.com/thedevclass/ionic-components-library/tree/stories">Stories Section 🔥</a>
+
 
 ###### Thank you.
 
