@@ -16,7 +16,7 @@
     "@angular/animations": "~9.1.6",
     "@angular/cdk": "^9.2.4",
     "@angular/common": "~9.1.6",
-    "@angular/core": "~9.1.6",
+    "@angular/core": "~11.0.5",
     "@angular/forms": "~9.1.6",
     "@angular/material": "^9.2.4",
     "@angular/platform-browser": "~9.1.6",
